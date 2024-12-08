@@ -18,7 +18,7 @@ const Navbar = () => {
         setCurrency({ name: "eur", symbol: "€" });
         break;
       case "ngr":
-        setCurrency({ name: "ngr", symbol: "₦" });
+        setCurrency({ name: "ngn", symbol: "₦" });
         break;
       default:
         setCurrency({ name: "usd", symbol: "$" });
