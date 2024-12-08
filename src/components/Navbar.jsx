@@ -61,7 +61,7 @@ const Navbar = () => {
               <option className="bg-gray-900" value="eur">
                 EUR
               </option>
-              <option className="bg-gray-900" value="ngr">
+              <option className="bg-gray-900" value="ngn">
                 NGR
               </option>
             </select>
@@ -116,7 +116,7 @@ const Navbar = () => {
                 <option className="bg-gray-900" value="eur">
                   EUR
                 </option>
-                <option className="bg-gray-900" value="ngr">
+                <option className="bg-gray-900" value="ngn">
                   NGR
                 </option>
               </select>
